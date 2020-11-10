@@ -1,0 +1,4 @@
+[16-Jan-2018 19:15:42 Asia/Colombo] PHP Notice:  Undefined index: b_mfd in /home3/t0a4i1u3/public_html/Systems/prabhanifoods.com/production/proccess/production_grn_proccess.php on line 63
+[16-Jan-2018 19:15:42 Asia/Colombo] PHP Notice:  Undefined index: b_exp in /home3/t0a4i1u3/public_html/Systems/prabhanifoods.com/production/proccess/production_grn_proccess.php on line 64
+[16-Jan-2018 19:15:42 Asia/Colombo] PHP Fatal error:  Cannot use object of type Batch as array in /home3/t0a4i1u3/public_html/Systems/prabhanifoods.com/production/proccess/production_grn_proccess.php on line 97
+[16-Jan-2018 19:16:29 Asia/Colombo] PHP Fatal error:  Cannot use object of type Batch as array in /home3/t0a4i1u3/public_html/Systems/prabhanifoods.com/production/proccess/production_grn_proccess.php on line 97
